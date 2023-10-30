@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Feature 2 is developing in Branch1
+
+Feature 3 is developing
+>>>>>>> Branch1
